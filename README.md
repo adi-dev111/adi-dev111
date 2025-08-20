@@ -61,9 +61,9 @@
 - 🎮 Mini Runner (Pygame)
 
 ### GitHub Stats
-<!-- Replace YOUR_USERNAME below -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="165"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165"/>
+<!-- Replace adi-dev111 below -->
+<img src="https://github-readme-stats.vercel.app/api?username=adi-dev111&show_icons=true" height="165"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-dev111&layout=compact" height="165"/>
 
 ### Hire Me / Work With Me
 - ✅ Mobile apps (Android/Flutter), backend APIs, AI automations, blockchain dApps
